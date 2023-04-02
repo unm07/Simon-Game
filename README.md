@@ -1,6 +1,6 @@
 # Simon-Game
 
-Play the classic Simon Game in this website: 
+Play the classic Simon Game in this website: https://unm07.github.io/Simon-Game/
 
 Rules:
 1) Turn on the Simon game by pressing any key
