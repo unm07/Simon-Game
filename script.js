@@ -7,10 +7,11 @@ var started=false;
 var level=0;
 
 $("body").keydown(function(){
-    if(!started)
+    if(!started){
         $("#level-title").text("Level " + level);
         nextSequence();
         started=true;
+    }
 });
 
 $(".btn").on("click",function(){
